@@ -1,0 +1,11 @@
+{
+  "name": "react-website",
+  "version": "1.0.0",
+  "description": "this is satish website",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "satish singh",
+  "license": "ISC"
+}
